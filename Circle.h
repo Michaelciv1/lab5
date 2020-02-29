@@ -46,7 +46,7 @@ class Circle : public BasicShape {
          * This function returns the value of the radius
          * return value: radius, the radius of the circle object
          */
-        long int getRadius() {
+        double getRadius() {
             return radius;
         }
         /*
