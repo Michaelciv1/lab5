@@ -24,3 +24,17 @@ int main()
     cout << "The length of the Rectangle is " << r.getLength() << endl;
     cout << "The area of the Rectangle is " << r.getArea() << endl;
 }
+
+/*
+The X coordinate of the Circle is 8
+The Y coordinate of the Circle is 4
+The radius of the Circle is 7
+The area of the Circle is 153.938
+
+The width of the Rectangle is 12
+The length of the Rectangle is 5
+The area of the Rectangle is 60
+
+Process returned 0 (0x0)   execution time : 0.064 s
+Press any key to continue.
+*/
